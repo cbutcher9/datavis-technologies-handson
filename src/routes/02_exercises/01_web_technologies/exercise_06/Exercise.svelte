@@ -1,3 +1,6 @@
 <style>
+p{font-family:sans;
+color:steelblue;
+font-size:smaller;}
 </style>
-I really like data visualisation!
+<p>I <span style=color:pink>really</span> like data visualisation!</p>
