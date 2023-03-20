@@ -8,3 +8,9 @@
 	</button>
 	<!--  -->
 </div>
+
+{#if clicked = true}
+	<p> <i>You have clicked the button!</i> </p>
+{:else}
+	<p> <i>You have to click the button!</i> </p>
+{/if}
