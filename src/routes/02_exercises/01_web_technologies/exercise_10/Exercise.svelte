@@ -3,6 +3,6 @@
 </script>
 
 
-<div> <Exercise3> </Exercise3>
-    <Exercise2></Exercise2>
+<div> <Exercise3/>
+      <Exercise2/>
 </div>
