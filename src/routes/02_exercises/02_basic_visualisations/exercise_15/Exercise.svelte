@@ -9,9 +9,9 @@
   <svg {width} {height}>
     <g transform="translate({margin.left}, {margin.top})">
       <!--  -->
-      <rect x=0 y=0 width=40 height=40 
-      transform=translate(25,25)/>
-      <circle cx=65 cy=65 r=20/>
+      <rect x={innerWidth/2-20} y={innerHeight/2-20} width=40
+      height=40 />
+      <circle cx={innerWidth/2+20} cy={innerHeight/2+20} r=20/>
     </g>
   </svg>
   
